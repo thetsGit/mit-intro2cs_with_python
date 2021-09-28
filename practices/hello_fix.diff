@@ -1,0 +1,7 @@
+1c1,2
+< print('Hello')
+\ No newline at end of file
+---
+> name = input('Enter your name.')
+> print('Hello',name)
+\ No newline at end of file
